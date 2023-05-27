@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.page {
+  all: unset;
+  margin-right: 1rem;
+  padding: 0.5rem;
+  background-color: rgb(218, 218, 218);
+  border-radius: 10px;
+  cursor: pointer;
+}
