@@ -1,6 +1,6 @@
 # Must Go Restaurants
 
-![MyImage]()
+![MyImage](https://github.com/Melon-Lo/A22_Assignment/blob/main/screenshot.png?raw=true)
 
 ### Introduction
 In this page, you can learn more about us and we will also recommend you a lot of useful information. If you want to know more, please feel free to contact us!
